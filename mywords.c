@@ -6,10 +6,6 @@
  * Title: Lab 3
  * Semester: COP4338 - Spring 2021
  * Author Megan Jane Thompson
- * Panther ID: 3276301
- *
- * I affirm that the revisions of this program is entirely
- * my own work and none of it is the work of any other person.
  *
  * This program extracts the flag values from a file and prints it to the display.
  * It also finds the number count of words in the file, finds the number of
